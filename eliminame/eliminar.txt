@@ -1,5 +1,5 @@
-Hola, 
+Hola
 
-Soy el archivo de texto y me van a leiminar
+Soy un archivo y me van a leimnar
 
-Ciao
+ciao
