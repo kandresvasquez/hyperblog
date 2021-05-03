@@ -10,3 +10,4 @@ O qué?
 
 Hoy es el nuevo DF de LafargeHolcim
 
+y es data scientist finanero
