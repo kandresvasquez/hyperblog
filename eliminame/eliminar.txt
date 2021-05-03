@@ -1,5 +1,5 @@
 Hola
 
-Soy un archivo y me van a leimnar
+Soy un archivo y me van a eliminar
 
 ciao
