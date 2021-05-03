@@ -1,5 +1,5 @@
 Hola, 
 
-Soy el archivo de texto y me van a leiminar
+Soy el archivo de texto y me van eliminar
 
 Ciao
