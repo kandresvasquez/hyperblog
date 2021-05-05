@@ -1,7 +1,0 @@
-Hola, 
-
-Soy el archivo de texto y me van eliminar
-
-var 1
-
-Ciao
